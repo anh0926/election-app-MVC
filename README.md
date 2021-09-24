@@ -5,9 +5,9 @@
 3.	Return types </br>
 4.	Interface </br>
 5.	Type </br>
-6.	union type</br>s 
+6.	union types </br>
 7.	typed arrays </br>
 8.	typed variables </br>
-9.	strictNullChecks on and / or Non-null Assertion Operator</br> 
+9.	strictNullChecks on and / or Non-null Assertion Operator </br> 
 10.	enums </br>
 
