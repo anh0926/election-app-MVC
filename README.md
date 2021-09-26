@@ -1,5 +1,5 @@
-##This is the < MODEL > for a program that will be of use for an election app 
-####The program uses the following features of typescript:
+## This is the < MODEL > for a program that will be of use for an election app 
+#### The program uses the following features of typescript:
 1.	Parameters </br>
 2.	Properties </br>
 3.	Return types </br>
